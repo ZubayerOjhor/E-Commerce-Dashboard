@@ -7,3 +7,7 @@ Based on the data modelling, In my BI Dashboard, I have shown:
 2. Geographic Analysis - Region-wise business condition
 3. Product Details - Live Report for each product record 
 4. Customer Details - Live Report for customers.
+
+# Power BI Dashboard Repository
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=power-bi)
+
